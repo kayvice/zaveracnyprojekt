@@ -1,0 +1,15 @@
+C:\Users\kater\OneDrive\Plocha\Rekva\Evidence\Evidence\Evidence\obj\Debug\net6.0\Evidence.csproj.AssemblyReference.cache
+C:\Users\kater\OneDrive\Plocha\Rekva\Evidence\Evidence\Evidence\obj\Debug\net6.0\Evidence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kater\OneDrive\Plocha\Rekva\Evidence\Evidence\Evidence\obj\Debug\net6.0\Evidence.AssemblyInfoInputs.cache
+C:\Users\kater\OneDrive\Plocha\Rekva\Evidence\Evidence\Evidence\obj\Debug\net6.0\Evidence.AssemblyInfo.cs
+C:\Users\kater\OneDrive\Plocha\Rekva\Evidence\Evidence\Evidence\obj\Debug\net6.0\Evidence.csproj.CoreCompileInputs.cache
+C:\Users\kater\OneDrive\Plocha\Rekva\Evidence\Evidence\Evidence\bin\Debug\net6.0\Evidence.exe
+C:\Users\kater\OneDrive\Plocha\Rekva\Evidence\Evidence\Evidence\bin\Debug\net6.0\Evidence.deps.json
+C:\Users\kater\OneDrive\Plocha\Rekva\Evidence\Evidence\Evidence\bin\Debug\net6.0\Evidence.runtimeconfig.json
+C:\Users\kater\OneDrive\Plocha\Rekva\Evidence\Evidence\Evidence\bin\Debug\net6.0\Evidence.dll
+C:\Users\kater\OneDrive\Plocha\Rekva\Evidence\Evidence\Evidence\bin\Debug\net6.0\Evidence.pdb
+C:\Users\kater\OneDrive\Plocha\Rekva\Evidence\Evidence\Evidence\obj\Debug\net6.0\Evidence.dll
+C:\Users\kater\OneDrive\Plocha\Rekva\Evidence\Evidence\Evidence\obj\Debug\net6.0\refint\Evidence.dll
+C:\Users\kater\OneDrive\Plocha\Rekva\Evidence\Evidence\Evidence\obj\Debug\net6.0\Evidence.pdb
+C:\Users\kater\OneDrive\Plocha\Rekva\Evidence\Evidence\Evidence\obj\Debug\net6.0\Evidence.genruntimeconfig.cache
+C:\Users\kater\OneDrive\Plocha\Rekva\Evidence\Evidence\Evidence\obj\Debug\net6.0\ref\Evidence.dll
