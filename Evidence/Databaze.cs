@@ -28,7 +28,9 @@ namespace Evidence
             Pojistenec p1 = new Pojistenec(jmeno, prijmeni, vek, telefon);
             if (!pojistenci.Contains(p1))
                 pojistenci.Add(new Pojistenec(jmeno, prijmeni, vek, telefon));
-            else Console.WriteLine("Zadaný pojištěnec již v databázi je.");
+            else Console.WriteLine( "\n ////////////////////////////////////" +
+                                    "\n Zadaný pojištěnec již v databázi je." +
+                                    "\n ////////////////////////////////////" );
         }
 
         /// <summary>
