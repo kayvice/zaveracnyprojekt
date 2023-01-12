@@ -16,10 +16,11 @@ namespace Evidence
         }
 
        
-
+        //Spojit s VypisMozneUkony
         public void TextUvodni()
         {
-             Console.Write("-------------------------------\nEvidence pojištěných\n-------------------------------");
+            Console.WriteLine();
+            Console.Write("-------------------------------\nEvidence pojištěných\n-------------------------------");
         }
 
         public void VypisMozneUkony()
@@ -108,7 +109,9 @@ namespace Evidence
             return prijmeni;
         }
 
-
+        /// <summary>
+        /// Hledání pojištěnce dle jmena i přijmení
+        /// </summary>
         public void VyhledejPojistence()
         {
             string jmeno = JmenoHledaneho();

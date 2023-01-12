@@ -7,6 +7,7 @@ while (ukon != '4')
 {
     text.TextUvodni();
     text.VypisMozneUkony();
+    Console.WriteLine();
     ukon = Console.ReadKey().KeyChar;
     Console.WriteLine();
     

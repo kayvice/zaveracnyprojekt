@@ -23,7 +23,23 @@ namespace Evidence
 
         public override string ToString()
         {
-            return Jmeno + " " + Prijmeni + " " + Vek +" " + Telefon;
+            return Jmeno + "\t" + Prijmeni + "\t" + Vek + "\t" + Telefon;
+        }
+
+
+        //Kouknout
+        public override bool Equals(object obj)
+        {
+            return obj is Pojistenec pojistenec &&
+                   Jmeno == pojistenec.Jmeno &&
+                   Prijmeni == pojistenec.Prijmeni &&
+                   Telefon == pojistenec.Telefon &&
+                   Vek == pojistenec.Vek;
+
+        }
+        public override int GetHashCode()
+        {
+            return HashCode.Combine(Jmeno, Prijmeni, Telefon, Vek);
         }
     }
 
