@@ -16,7 +16,7 @@ namespace Evidence
         }
 
        
-        //Spojit s VypisMozneUkony
+        
         public void TextUvodni()
         {
             Console.WriteLine();

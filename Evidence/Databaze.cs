@@ -16,12 +16,10 @@ namespace Evidence
         /// Přidání nového pojištěnce do databáze
         /// </summary>
         /// <param name="jmeno">Jméno uživatele</param>
-        /// <param name="prijmeni"></param>
-        /// <param name="vek"></param>
-        /// <param name="telefon"></param>
+        /// <param name="prijmeni">Přijmení uživatele</param>
+        /// <param name="vek">Věk uživatele</param>
+        /// <param name="telefon">Telefonní číslo uživatele</param>
         /// 
-        //Doplnit podmínku pokud je/není uživatel v db
-
         public void PridejPojistence(string jmeno, string prijmeni, int vek, int telefon)
 
         {

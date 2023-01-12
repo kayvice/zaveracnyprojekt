@@ -27,7 +27,7 @@ namespace Evidence
         }
 
 
-        //Kouknout
+        
         public override bool Equals(object obj)
         {
             return obj is Pojistenec pojistenec &&
